@@ -1,0 +1,12 @@
+# Fichiers générés par le programme
+journal.txt
+sauvegarde.txt
+*.txt
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+venv/
+.env
