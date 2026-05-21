@@ -52,22 +52,7 @@ Pendant ce projet, j'ai appris à :
 - additionner les heures enregistrées;
 - utiliser `split()` pour séparer les différentes sessions.
 
-## Exemple d'entrée sauvegardée
-
-```text
-Nom: journal
-
-Entrée: 1
-
-Tâches: Apprendre les fichiers en Python
-
-Heures: 1.5
-
-Date: 2026-05-21
-
-----------------
-
-Problèmes rencontrés
+## Problèmes rencontrés
 
 Un problème important était que la variable contenant le nom du journal revenait à sa valeur par défaut quand le programme était fermé. Pour régler ça, j'ai créé un fichier sauvegarde.txt qui garde le nom du journal. Au lancement du programme, une fonction lit ce fichier pour retrouver le dernier nom utilisé.
 
@@ -85,3 +70,19 @@ py journal_roadmap.py
 Statut du projet
 
 Projet terminé pour l'étape 3 de la roadmap IA. Ce projet valide les bases pratiques de Python avec les fichiers, les erreurs, les fonctions et la sauvegarde de données simples.
+
+## Exemple d'entrée sauvegardée
+
+```text
+Nom: journal
+
+Entrée: 1
+
+Tâches: Apprendre les fichiers en Python
+
+Heures: 1.5
+
+Date: 2026-05-21
+
+----------------
+
